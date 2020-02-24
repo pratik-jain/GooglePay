@@ -1,0 +1,32 @@
+{
+  "projects": {
+    "api": "GooglePayApp.Api",
+    "model": "GooglePayApp.Models",
+    "context": "GooglePayApp.BoundedContext",
+    "domain": "GooglePayApp.Domain",
+	"unitOfWork": "GooglePayApp.UnitOfWork",
+    "infrastructure": "GooglePayApp.Infrastructure",
+    "azureFunctionHttp":"",
+    "portal":"",
+    "azureFunctionBackground":""
+  },
+  "path": {
+    "dbConnection": {
+      "main": "Database.ConnectionString.Main"
+    },
+    "folder": {
+      "model": "DbEntities",
+      "context": "",
+	  "enums": "",
+	  "localizeValidationMessage": "wwwroot"
+    }
+  },
+  "annotations": {
+    "rxweb": false
+  },
+  "config": {
+    "generateEnums": false,
+    "commanTableSchema": "dbo",
+    "validationMessageLocalizationId": "15"
+  }
+}

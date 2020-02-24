@@ -1,0 +1,5 @@
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Models\bin\Debug\netcoreapp3.1\GooglePayApp.Models.deps.json
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Models\bin\Debug\netcoreapp3.1\GooglePayApp.Models.dll
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Models\obj\Debug\netcoreapp3.1\GooglePayApp.Models.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Models\obj\Debug\netcoreapp3.1\GooglePayApp.Models.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Models\obj\Debug\netcoreapp3.1\GooglePayApp.Models.AssemblyInfo.cs

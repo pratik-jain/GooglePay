@@ -1,0 +1,7 @@
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\bin\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.dll
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\bin\Debug\netcoreapp3.1\GooglePayApp.Infrastructure.dll
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\bin\Debug\netcoreapp3.1\GooglePayApp.Models.dll
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\bin\Debug\netcoreapp3.1\GooglePayApp.UnitOfWork.dll
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\obj\Debug\netcoreapp3.1\GooglePayApp.Domain.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\obj\Debug\netcoreapp3.1\GooglePayApp.Domain.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.Domain\obj\Debug\netcoreapp3.1\GooglePayApp.Domain.AssemblyInfo.cs

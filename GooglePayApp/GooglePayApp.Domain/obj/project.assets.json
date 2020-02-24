@@ -1972,7 +1972,10 @@
         },
         "runtime": {
           "bin/placeholder/GooglePayApp.Infrastructure.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "GooglePayApp.Models/1.0.0": {
         "type": "project",

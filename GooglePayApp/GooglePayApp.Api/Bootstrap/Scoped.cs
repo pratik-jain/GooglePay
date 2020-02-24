@@ -8,9 +8,7 @@ using RxWeb.Core;
 using GooglePayApp.UnitOfWork.DbEntityAudit;
 using GooglePayApp.BoundedContext.Main;
 using GooglePayApp.UnitOfWork.Main;
-using GooglePayApp.Domain.GPayUserModule;
-            #endregion Namespace
-
+#endregion Namespace
 
 
 
@@ -41,13 +39,7 @@ namespace GooglePayApp.Api.Bootstrap
 
             #region DomainService
 
-            
-            serviceCollection.AddScoped<ITransactionDomain, TransactionDomain>();
-            
-            serviceCollection.AddScoped<IUserBankDetailDomain, UserBankDetailDomain>();
             #endregion DomainService
-
-
         }
     }
 }

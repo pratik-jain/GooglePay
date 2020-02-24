@@ -6323,21 +6323,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\radix\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\radix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj",
+      "projectUniqueName": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj",
       "projectName": "GooglePayApp.UnitOfWork",
-      "projectPath": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj",
+      "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj",
       "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.UnitOfWork\\obj\\",
+      "outputPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.UnitOfWork\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -6352,8 +6348,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj": {
-              "projectPath": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj"
+            "D:\\GooglePay\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj": {
+              "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj"
             }
           }
         }

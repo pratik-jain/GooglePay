@@ -6151,21 +6151,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\radix\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\radix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
+      "projectUniqueName": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
       "projectName": "GooglePayApp.Models",
-      "projectPath": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
+      "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
       "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radix\\source\\repos\\GooglePayApp\\GooglePayApp.Models\\obj\\",
+      "outputPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

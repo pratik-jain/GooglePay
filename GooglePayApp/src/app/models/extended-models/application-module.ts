@@ -10,12 +10,12 @@ export class ApplicationModule extends ApplicationModuleBase
 
 //#region Generated Reference Properties
 //#region moduleMaster Prop
-        moduleMaster : ModuleMasterBase;
+moduleMaster : ModuleMasterBase;
 //#endregion moduleMaster Prop
-
 //#region rolePermissions Prop
-        rolePermissions : RolePermissionBase[];
+rolePermissions : RolePermissionBase[];
 //#endregion rolePermissions Prop
 
 //#endregion Generated Reference Properties
+
 }

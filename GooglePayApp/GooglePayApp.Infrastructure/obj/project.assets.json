@@ -6763,17 +6763,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\radix\\.nuget\\packages\\": {}
+    "C:\\Users\\radix\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Infrastructure\\GooglePayApp.Infrastructure.csproj",
+      "projectUniqueName": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Infrastructure\\GooglePayApp.Infrastructure.csproj",
       "projectName": "GooglePayApp.Infrastructure",
-      "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Infrastructure\\GooglePayApp.Infrastructure.csproj",
+      "projectPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Infrastructure\\GooglePayApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-      "outputPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Infrastructure\\obj\\",
+      "outputPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -6788,14 +6792,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\GooglePay\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj": {
-              "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj"
+            "D:\\GPayApp\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj": {
+              "projectPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.BoundedContext\\GooglePayApp.BoundedContext.csproj"
             },
-            "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj": {
-              "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj"
+            "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj": {
+              "projectPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj"
             },
-            "D:\\GooglePay\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj": {
-              "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj"
+            "D:\\GPayApp\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj": {
+              "projectPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.UnitOfWork\\GooglePayApp.UnitOfWork.csproj"
             }
           }
         }

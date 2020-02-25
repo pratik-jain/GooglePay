@@ -9,8 +9,9 @@ export class ApplicationObject extends ApplicationObjectBase
 
 //#region Generated Reference Properties
 //#region applicationObjectType Prop
-        applicationObjectType : ApplicationObjectTypeBase;
+applicationObjectType : ApplicationObjectTypeBase;
 //#endregion applicationObjectType Prop
 
 //#endregion Generated Reference Properties
+
 }

@@ -11,34 +11,37 @@ namespace GooglePayApp.Models.Main
     public partial class vAllTransaction
     {
 
-        public long TransactionId { get; set; }
-
-
-        public long SenderId { get; set; }
-
-
-        public long ReciverId { get; set; }
-
-
-        public double Amount { get; set; }
-
-
-        public long UpiId { get; set; }
-
-
-        public string Remarks { get; set; }
-
-
-        public byte TransactionStatus { get; set; }
-
-
-        public System.DateTime SendDate { get; set; }
+        public long GPayUserId { get; set; }
 
 
         public string MobileNumber { get; set; }
 
 
         public string UserName { get; set; }
+
+
+        public long Expr1 { get; set; }
+
+
+        public long Expr2 { get; set; }
+
+
+        public double Amount { get; set; }
+
+
+        public long ReciverId { get; set; }
+
+
+        public System.DateTime SendDate { get; set; }
+
+
+        public byte TransactionStatus { get; set; }
+
+
+        public long UPIId { get; set; }
+
+
+        public string Remarks { get; set; }
 
 
         public vAllTransaction()

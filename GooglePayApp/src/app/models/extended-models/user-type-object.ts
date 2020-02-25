@@ -9,8 +9,9 @@ export class UserTypeObject extends UserTypeObjectBase
 
 //#region Generated Reference Properties
 //#region gpayUsers Prop
-        gpayUsers : GpayUserBase[];
+gpayUsers : GpayUserBase[];
 //#endregion gpayUsers Prop
 
 //#endregion Generated Reference Properties
+
 }

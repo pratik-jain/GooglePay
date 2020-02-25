@@ -10,12 +10,12 @@ export class Upi extends UpiBase
 
 //#region Generated Reference Properties
 //#region userBankDetail Prop
-        userBankDetail : UserBankDetailBase;
+userBankDetail : UserBankDetailBase;
 //#endregion userBankDetail Prop
-
 //#region transactions Prop
-        transactions : TransactionBase[];
+transactions : TransactionBase[];
 //#endregion transactions Prop
 
 //#endregion Generated Reference Properties
+
 }

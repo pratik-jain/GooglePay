@@ -4,6 +4,18 @@ import { gridColumn } from "@rxweb/grid"
 
 export class vBankAccountInformationBase {
 
+//#region userName Prop
+        @gridColumn({visible: true, columnIndex:7, allowSorting: true, headerKey: 'userName', keyColumn: false})
+        userName : string;
+//#endregion userName Prop
+
+
+//#region mobileNumber Prop
+        @gridColumn({visible: true, columnIndex:6, allowSorting: true, headerKey: 'mobileNumber', keyColumn: false})
+        mobileNumber : string;
+//#endregion mobileNumber Prop
+
+
 //#region upiId Prop
         @gridColumn({visible: true, columnIndex:0, allowSorting: true, headerKey: 'upiId', keyColumn: false})
         upiId : any;
@@ -16,6 +28,18 @@ export class vBankAccountInformationBase {
 //#endregion upiName Prop
 
 
+//#region upiPriority Prop
+        @gridColumn({visible: true, columnIndex:8, allowSorting: true, headerKey: 'upiPriority', keyColumn: false})
+        upiPriority : boolean;
+//#endregion upiPriority Prop
+
+
+//#region bankId Prop
+        @gridColumn({visible: true, columnIndex:5, allowSorting: true, headerKey: 'bankId', keyColumn: false})
+        bankId : any;
+//#endregion bankId Prop
+
+
 //#region accountNumber Prop
         @gridColumn({visible: true, columnIndex:2, allowSorting: true, headerKey: 'accountNumber', keyColumn: false})
         accountNumber : any;
@@ -26,35 +50,5 @@ export class vBankAccountInformationBase {
         @gridColumn({visible: true, columnIndex:3, allowSorting: true, headerKey: 'addedStatus', keyColumn: false})
         addedStatus : boolean;
 //#endregion addedStatus Prop
-
-
-//#region userId Prop
-        @gridColumn({visible: true, columnIndex:4, allowSorting: true, headerKey: 'userId', keyColumn: false})
-        userId : any;
-//#endregion userId Prop
-
-
-//#region bankId Prop
-        @gridColumn({visible: true, columnIndex:5, allowSorting: true, headerKey: 'bankId', keyColumn: false})
-        bankId : any;
-//#endregion bankId Prop
-
-
-//#region mobileNumber Prop
-        @gridColumn({visible: true, columnIndex:6, allowSorting: true, headerKey: 'mobileNumber', keyColumn: false})
-        mobileNumber : string;
-//#endregion mobileNumber Prop
-
-
-//#region userName Prop
-        @gridColumn({visible: true, columnIndex:7, allowSorting: true, headerKey: 'userName', keyColumn: false})
-        userName : string;
-//#endregion userName Prop
-
-
-//#region upiPriority Prop
-        @gridColumn({visible: true, columnIndex:8, allowSorting: true, headerKey: 'upiPriority', keyColumn: false})
-        upiPriority : boolean;
-//#endregion upiPriority Prop
 
 }

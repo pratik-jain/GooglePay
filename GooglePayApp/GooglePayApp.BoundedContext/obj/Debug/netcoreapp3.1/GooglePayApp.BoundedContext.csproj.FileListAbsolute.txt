@@ -2,3 +2,14 @@ C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.BoundedContext\bin\Debug\n
 C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.csprojAssemblyReference.cache
 C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.AssemblyInfoInputs.cache
 C:\Users\radix\source\repos\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.AssemblyInfo.cs
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.deps.json
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.dll
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.pdb
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayApp.Models.dll
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayApp.Models.pdb
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.csprojAssemblyReference.cache
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.AssemblyInfoInputs.cache
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.AssemblyInfo.cs
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.csproj.CopyComplete
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.dll
+D:\GPayApp\GooglePayApp\GooglePayApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayApp.BoundedContext.pdb

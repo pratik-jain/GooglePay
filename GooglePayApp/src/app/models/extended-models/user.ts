@@ -10,12 +10,12 @@ export class User extends UserBase
 
 //#region Generated Reference Properties
 //#region applicationUserTokens Prop
-        applicationUserTokens : ApplicationUserTokenBase[];
+applicationUserTokens : ApplicationUserTokenBase[];
 //#endregion applicationUserTokens Prop
-
 //#region userRoles Prop
-        userRoles : UserRoleBase[];
+userRoles : UserRoleBase[];
 //#endregion userRoles Prop
 
 //#endregion Generated Reference Properties
+
 }

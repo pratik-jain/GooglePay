@@ -10,12 +10,12 @@ export class ComponentLanguageContent extends ComponentLanguageContentBase
 
 //#region Generated Reference Properties
 //#region languageContentKey Prop
-        languageContentKey : LanguageContentKeyBase;
+languageContentKey : LanguageContentKeyBase;
 //#endregion languageContentKey Prop
-
 //#region languageContent Prop
-        languageContent : LanguageContentBase;
+languageContent : LanguageContentBase;
 //#endregion languageContent Prop
 
 //#endregion Generated Reference Properties
+
 }

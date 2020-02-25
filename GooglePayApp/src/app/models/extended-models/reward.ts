@@ -9,8 +9,9 @@ export class Reward extends RewardBase
 
 //#region Generated Reference Properties
 //#region gpayUser Prop
-        gpayUser : GpayUserBase;
+gpayUser : GpayUserBase;
 //#endregion gpayUser Prop
 
 //#endregion Generated Reference Properties
+
 }

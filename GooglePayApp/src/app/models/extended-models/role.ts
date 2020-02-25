@@ -10,12 +10,12 @@ export class Role extends RoleBase
 
 //#region Generated Reference Properties
 //#region userRoles Prop
-        userRoles : UserRoleBase[];
+userRoles : UserRoleBase[];
 //#endregion userRoles Prop
-
 //#region rolePermissions Prop
-        rolePermissions : RolePermissionBase[];
+rolePermissions : RolePermissionBase[];
 //#endregion rolePermissions Prop
 
 //#endregion Generated Reference Properties
+
 }

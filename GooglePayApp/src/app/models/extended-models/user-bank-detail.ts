@@ -12,20 +12,18 @@ export class UserBankDetail extends UserBankDetailBase
 
 //#region Generated Reference Properties
 //#region gpayUser Prop
-        gpayUser : GpayUserBase;
+gpayUser : GpayUserBase;
 //#endregion gpayUser Prop
-
 //#region bank Prop
-        bank : BankBase;
+bank : BankBase;
 //#endregion bank Prop
-
 //#region cards Prop
-        cards : CardBase[];
+cards : CardBase[];
 //#endregion cards Prop
-
 //#region upis Prop
-        upis : UpiBase[];
+upis : UpiBase[];
 //#endregion upis Prop
 
 //#endregion Generated Reference Properties
+
 }

@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj": {}
+    "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj": {}
   },
   "projects": {
-    "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj": {
+    "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
+        "projectUniqueName": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
         "projectName": "GooglePayApp.Models",
-        "projectPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
+        "projectPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\GooglePayApp.Models.csproj",
         "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-        "outputPath": "D:\\GooglePay\\GooglePayApp\\GooglePayApp.Models\\obj\\",
+        "outputPath": "D:\\GPayApp\\GooglePayApp\\GooglePayApp.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

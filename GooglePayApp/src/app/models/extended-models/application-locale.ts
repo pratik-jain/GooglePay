@@ -7,5 +7,7 @@ export class ApplicationLocale extends ApplicationLocaleBase
 
 
 //#region Generated Reference Properties
+
 //#endregion Generated Reference Properties
+
 }

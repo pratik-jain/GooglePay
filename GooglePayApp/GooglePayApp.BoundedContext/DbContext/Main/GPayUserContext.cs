@@ -17,7 +17,8 @@ namespace GooglePayApp.BoundedContext.Main
 
             #region DbSets
                 public DbSet<GpayUser>GpayUsers { get; set; }
-            #endregion DbSets
+            public DbSet<OTP> OTPs { get; set; }
+        #endregion DbSets
 
     }
 

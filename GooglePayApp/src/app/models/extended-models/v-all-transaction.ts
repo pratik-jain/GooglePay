@@ -7,5 +7,7 @@ export class vAllTransaction extends vAllTransactionBase
 
 
 //#region Generated Reference Properties
+
 //#endregion Generated Reference Properties
+
 }

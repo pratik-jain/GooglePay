@@ -10,12 +10,12 @@ export class RolePermission extends RolePermissionBase
 
 //#region Generated Reference Properties
 //#region applicationModule Prop
-        applicationModule : ApplicationModuleBase;
+applicationModule : ApplicationModuleBase;
 //#endregion applicationModule Prop
-
 //#region role Prop
-        role : RoleBase;
+role : RoleBase;
 //#endregion role Prop
 
 //#endregion Generated Reference Properties
+
 }

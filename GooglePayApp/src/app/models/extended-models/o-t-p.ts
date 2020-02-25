@@ -9,8 +9,9 @@ export class OTP extends OTPBase
 
 //#region Generated Reference Properties
 //#region gpayUser Prop
-        gpayUser : GpayUserBase;
+gpayUser : GpayUserBase;
 //#endregion gpayUser Prop
 
 //#endregion Generated Reference Properties
+
 }

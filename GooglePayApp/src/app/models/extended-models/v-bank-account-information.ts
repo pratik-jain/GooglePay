@@ -7,5 +7,7 @@ export class vBankAccountInformation extends vBankAccountInformationBase
 
 
 //#region Generated Reference Properties
+
 //#endregion Generated Reference Properties
+
 }

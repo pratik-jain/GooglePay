@@ -9,8 +9,9 @@ export class TransactionStatusObject extends TransactionStatusObjectBase
 
 //#region Generated Reference Properties
 //#region transactions Prop
-        transactions : TransactionBase[];
+transactions : TransactionBase[];
 //#endregion transactions Prop
 
 //#endregion Generated Reference Properties
+
 }

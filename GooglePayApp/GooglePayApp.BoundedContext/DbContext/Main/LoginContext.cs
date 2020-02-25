@@ -1,28 +1,28 @@
-using GooglePayApp.BoundedContext.SqlContext;
-using GooglePayApp.Models.Main;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using GooglePayApp.BoundedContext.SqlContext;
+using GooglePayApp.Models.Main;
+using GooglePayApp.Models;
+using GooglePayApp.BoundedContext.Singleton;
 using RxWeb.Core.Data;
-using RxWeb.Core.Data.BoundedContext;
 using RxWeb.Core.Data.Models;
+using RxWeb.Core.Data.BoundedContext;
 
 namespace GooglePayApp.BoundedContext.Main
 {
     public class LoginContext : BaseBoundedContext, ILoginContext
     {
-        public LoginContext(MainSqlDbContext sqlDbContext, IOptions<DatabaseConfig> databaseConfig, IHttpContextAccessor contextAccessor, ITenantDbConnectionInfo tenantDbConnection) : base(sqlDbContext, databaseConfig.Value, contextAccessor, tenantDbConnection) { }
+        public LoginContext(MainSqlDbContext sqlDbContext,  IOptions<DatabaseConfig> databaseConfig, IHttpContextAccessor contextAccessor,ITenantDbConnectionInfo tenantDbConnection): base(sqlDbContext, databaseConfig.Value, contextAccessor,tenantDbConnection){ }
 
-        #region DbSets
+            #region DbSets
         public DbSet<ApplicationUserToken> ApplicationUserTokens { get; set; }
         public DbSet<UserRole> UserRoles { get; set; }
         public DbSet<User> User { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<RolePermission> RolePermissions { get; set; }
         public DbSet<vUser> Users { get; set; }
-
         #endregion DbSets
-
 
     }
 

@@ -8,7 +8,13 @@ using RxWeb.Core;
 using GooglePayApp.UnitOfWork.DbEntityAudit;
 using GooglePayApp.BoundedContext.Main;
 using GooglePayApp.UnitOfWork.Main;
-#endregion Namespace
+
+         
+            using GooglePayApp.Domain.TrasanctionModule;
+            #endregion Namespace
+
+
+
 
 
 
@@ -32,14 +38,39 @@ namespace GooglePayApp.Api.Bootstrap
             serviceCollection.AddScoped<ILoginUow, LoginUow>();
                         serviceCollection.AddScoped<IGPayUserContext, GPayUserContext>();
             serviceCollection.AddScoped<IGPayUserUow, GPayUserUow>();
+                        serviceCollection.AddScoped<ITransactionContext, TransactionContext>();
+            serviceCollection.AddScoped<ITransactionUow, TransactionUow>();
+                        
+                        serviceCollection.AddScoped<ITransactionContext, TransactionContext>();
+            serviceCollection.AddScoped<ITransactionUow, TransactionUow>();
+                     
+                        serviceCollection.AddScoped<ILoginContext, LoginContext>();
+            serviceCollection.AddScoped<ILoginUow, LoginUow>();
             #endregion ContextService
+
+
+
+
+
 
 
 
 
             #region DomainService
 
+            
+            serviceCollection.AddScoped<ITransactionDomain, TransactionDomain>();
+            
+            serviceCollection.AddScoped<ITransactionDomain, TransactionDomain>();
+            
+           
+            
+            serviceCollection.AddScoped<ITransactionDomain, TransactionDomain>();
             #endregion DomainService
+
+
+
+
         }
     }
 }

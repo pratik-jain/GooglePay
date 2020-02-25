@@ -9,7 +9,7 @@ namespace GooglePayApp.Domain.GPayUserModule
 {
     public class UserBankDetailDomain : IUserBankDetailDomain
     {
-        public UserBankDetailDomain(IGPayUserUow uow) {
+        public UserBankDetailDomain(UserBankDetailUow uow) {
             this.Uow = uow;
         }
 
@@ -56,7 +56,7 @@ namespace GooglePayApp.Domain.GPayUserModule
             throw new NotImplementedException();
         }
 
-        public IGPayUserUow Uow { get; set; }
+        public UserBankDetailUow Uow { get; set; }
 
         private HashSet<string> ValidationMessages { get; set; } = new HashSet<string>();
     }

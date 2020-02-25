@@ -17,6 +17,8 @@ namespace GooglePayApp.BoundedContext.Main
 
             #region DbSets
                 public DbSet<GpayUser>GpayUsers { get; set; }
+                public DbSet<Transaction> Transactions { get; set; }
+                public DbSet<UserBankDetail> UserBankDetails { get; set; }
             #endregion DbSets
 
     }
